@@ -53,6 +53,7 @@ public class GestionCuentas implements Separable {
             }
         }
         //MENU como constante
+        //Añadir nuevas opciones
         final String[] MENU = {".-Salir",
             ".-Crear un cliente",
             ".-Modificar un cliente",
