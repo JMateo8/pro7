@@ -52,8 +52,8 @@ public class GestionCuentas implements Separable {
                 Movimiento mov = new Movimiento();
             }
         }
-        //Menu actualizado
         //MENU como constante
+        //MENU final
         final String[] MENU = {".-Salir",
             ".-Crear un cliente",
             ".-Modificar un cliente",
